@@ -1,0 +1,3906 @@
+{
+  "version": 1,
+  "lang": "en",
+  "updatedAt": "2025-09-01",
+  "words": [
+    {
+      "id": "w-2001",
+      "word": "electricity",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2002",
+      "word": "donkey",
+      "definition": "An animal.",
+      "hintText": "Starts with 'd', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2003",
+      "word": "hardware",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'h', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2004",
+      "word": "xerox",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'x', ends with 'x'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2005",
+      "word": "transistor",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 't', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2006",
+      "word": "computer",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2007",
+      "word": "desktop",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'd', ends with 'p'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2008",
+      "word": "engineering",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'g'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2009",
+      "word": "hangman",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2010",
+      "word": "circuit",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2011",
+      "word": "imagination",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2012",
+      "word": "robot",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'r', ends with 't'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2013",
+      "word": "memory",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2014",
+      "word": "power",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'r'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2015",
+      "word": "submarine",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2016",
+      "word": "chess",
+      "definition": "A game or sport.",
+      "hintText": "Starts with 'c', ends with 's'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2017",
+      "word": "resistance",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'r', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2018",
+      "word": "matrix",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 'x'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2019",
+      "word": "function",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'f', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2020",
+      "word": "laser",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'l', ends with 'r'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2021",
+      "word": "mechanism",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 'm'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2022",
+      "word": "bodyguard",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'b', ends with 'd'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2023",
+      "word": "titanic",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'c'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2024",
+      "word": "global",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'g', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2025",
+      "word": "ozone",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'o', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2026",
+      "word": "bridge",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2027",
+      "word": "technology",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 't', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2028",
+      "word": "spider",
+      "definition": "An animal.",
+      "hintText": "Starts with 's', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2029",
+      "word": "pyramid",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'p', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2030",
+      "word": "sphere",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2031",
+      "word": "member",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2032",
+      "word": "warning",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2033",
+      "word": "yourself",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'y', ends with 'f'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2034",
+      "word": "screen",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2035",
+      "word": "language",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'l', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2036",
+      "word": "system",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 's', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2037",
+      "word": "internet",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'i', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2038",
+      "word": "parameter",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'p', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2039",
+      "word": "traffic",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 't', ends with 'c'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2040",
+      "word": "network",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'n', ends with 'k'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2041",
+      "word": "filter",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'f', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2042",
+      "word": "nucleus",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'n', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2043",
+      "word": "automatic",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'a', ends with 'c'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2044",
+      "word": "microphone",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2045",
+      "word": "cassette",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2046",
+      "word": "operation",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'o', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2047",
+      "word": "country",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2048",
+      "word": "beautiful",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'l'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2049",
+      "word": "picture",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2050",
+      "word": "teacher",
+      "definition": "A person or role.",
+      "hintText": "Starts with 't', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2051",
+      "word": "superman",
+      "definition": "A person or role.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2052",
+      "word": "undertaker",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'u', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2053",
+      "word": "alarm",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'm'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2054",
+      "word": "process",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'p', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2055",
+      "word": "keyboard",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'k', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2056",
+      "word": "electron",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2057",
+      "word": "certificate",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2058",
+      "word": "grandfather",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'g', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2059",
+      "word": "landmark",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'l', ends with 'k'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2060",
+      "word": "relativity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'r', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2061",
+      "word": "eraser",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2062",
+      "word": "design",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2063",
+      "word": "football",
+      "definition": "A game or sport.",
+      "hintText": "Starts with 'f', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2064",
+      "word": "human",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'n'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2065",
+      "word": "musician",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'm', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2066",
+      "word": "egyptian",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2067",
+      "word": "elephant",
+      "definition": "An animal.",
+      "hintText": "Starts with 'e', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2068",
+      "word": "queen",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'q', ends with 'n'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2069",
+      "word": "message",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'm', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2070",
+      "word": "wallpaper",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2071",
+      "word": "nationality",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'n', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2072",
+      "word": "answer",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2073",
+      "word": "wrong",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'g'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2074",
+      "word": "statement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2075",
+      "word": "forest",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'f', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2076",
+      "word": "puzzle",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2077",
+      "word": "voltage",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'v', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2078",
+      "word": "current",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2079",
+      "word": "mathematics",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 's'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2080",
+      "word": "wisdom",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2081",
+      "word": "dream",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'm'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2082",
+      "word": "supermarket",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 's', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2083",
+      "word": "database",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2084",
+      "word": "collection",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2085",
+      "word": "barrier",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2086",
+      "word": "project",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2087",
+      "word": "sunlight",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 's', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2088",
+      "word": "figure",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'f', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2089",
+      "word": "graph",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'g', ends with 'h'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2090",
+      "word": "battle",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2091",
+      "word": "hundred",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2092",
+      "word": "signal",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 's', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2093",
+      "word": "thousand",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2094",
+      "word": "transformation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 't', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2095",
+      "word": "daughter",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'd', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2096",
+      "word": "flower",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'f', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2097",
+      "word": "communication",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2098",
+      "word": "microwave",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2099",
+      "word": "electronic",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'c'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2100",
+      "word": "peace",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2101",
+      "word": "wireless",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'w', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2102",
+      "word": "delete",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2103",
+      "word": "wind",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'w', ends with 'd'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2104",
+      "word": "brain",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'n'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2105",
+      "word": "control",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2106",
+      "word": "prophet",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'p', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2107",
+      "word": "freedom",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2108",
+      "word": "harbour",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'h', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2109",
+      "word": "confidence",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2110",
+      "word": "positive",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2111",
+      "word": "harvest",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2112",
+      "word": "hunger",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2113",
+      "word": "woman",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'w', ends with 'n'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2114",
+      "word": "children",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2115",
+      "word": "stranger",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2116",
+      "word": "garden",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'g', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2117",
+      "word": "pleasure",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2118",
+      "word": "between",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2119",
+      "word": "recognition",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'r', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2120",
+      "word": "tomorrow",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'w'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2121",
+      "word": "autumn",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2122",
+      "word": "monkey",
+      "definition": "An animal.",
+      "hintText": "Starts with 'm', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2123",
+      "word": "spring",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 's', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2124",
+      "word": "winter",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'w', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2125",
+      "word": "classification",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2126",
+      "word": "typewriter",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2127",
+      "word": "success",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2128",
+      "word": "difference",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2129",
+      "word": "acoustics",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'a', ends with 's'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2130",
+      "word": "astronomy",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'a', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2131",
+      "word": "agreement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2132",
+      "word": "sorrow",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'w'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2133",
+      "word": "christmas",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 's'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2134",
+      "word": "silver",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2135",
+      "word": "birthday",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2136",
+      "word": "championship",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'p'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2137",
+      "word": "frien",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'n'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2138",
+      "word": "comfortable",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2139",
+      "word": "diffusion",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2140",
+      "word": "murder",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2141",
+      "word": "policeman",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2142",
+      "word": "science",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2143",
+      "word": "desert",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'd', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2144",
+      "word": "basketb",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'b'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2145",
+      "word": "blood",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'd'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2146",
+      "word": "funeral",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2147",
+      "word": "silence",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2148",
+      "word": "garment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'g', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2149",
+      "word": "merchant",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'm', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2150",
+      "word": "spirit",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2151",
+      "word": "punishment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2152",
+      "word": "measurement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'm', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2153",
+      "word": "ocean",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'o', ends with 'n'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2154",
+      "word": "digital",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'd', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2155",
+      "word": "illusion",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2156",
+      "word": "tyrant",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2157",
+      "word": "castle",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2158",
+      "word": "passion",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2159",
+      "word": "magician",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2160",
+      "word": "remedy",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'r', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2161",
+      "word": "knowledge",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'k', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2162",
+      "word": "threshold",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'd'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2163",
+      "word": "number",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'n', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2164",
+      "word": "vision",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'v', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2165",
+      "word": "expectation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2166",
+      "word": "absence",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2167",
+      "word": "mystery",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2168",
+      "word": "morning",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'm', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2169",
+      "word": "device",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2170",
+      "word": "thoughts",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2171",
+      "word": "future",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'f', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2172",
+      "word": "mountain",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'm', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2173",
+      "word": "treasure",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 't', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2174",
+      "word": "machine",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2175",
+      "word": "whispering",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'g'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2176",
+      "word": "eternity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2177",
+      "word": "reflection",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'r', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2178",
+      "word": "occu",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'o', ends with 'u'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2179",
+      "word": "achievement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2180",
+      "word": "lightning",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'l', ends with 'g'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2181",
+      "word": "secret",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2182",
+      "word": "environment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2183",
+      "word": "shepherd",
+      "definition": "A person or role.",
+      "hintText": "Starts with 's', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2184",
+      "word": "confusion",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2185",
+      "word": "grave",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'g', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2186",
+      "word": "promise",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2187",
+      "word": "honour",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2188",
+      "word": "reward",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'r', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2189",
+      "word": "temple",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 't', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2190",
+      "word": "distance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2191",
+      "word": "eagle",
+      "definition": "An animal.",
+      "hintText": "Starts with 'e', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2192",
+      "word": "saturn",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2193",
+      "word": "finger",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2194",
+      "word": "belief",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'f'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2195",
+      "word": "crystal",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2196",
+      "word": "fashion",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2197",
+      "word": "direction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2198",
+      "word": "captain",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2199",
+      "word": "moment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'm', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2200",
+      "word": "permission",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2201",
+      "word": "logic",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'l', ends with 'c'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2202",
+      "word": "analysis",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'a', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2203",
+      "word": "password",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2204",
+      "word": "english",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'h'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2205",
+      "word": "equalizer",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2206",
+      "word": "simulati",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'i'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2207",
+      "word": "emotion",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2208",
+      "word": "expression",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2209",
+      "word": "scissors",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 's', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2210",
+      "word": "trousers",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 't', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2211",
+      "word": "glasses",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'g', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2212",
+      "word": "departmen",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2213",
+      "word": "dictionary",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2214",
+      "word": "chemistry",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2215",
+      "word": "induction",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2216",
+      "word": "detail",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2217",
+      "word": "widow",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'w'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2218",
+      "word": "wealth",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'h'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2219",
+      "word": "health",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'h'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2220",
+      "word": "disaster",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2221",
+      "word": "volcano",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'v', ends with 'o'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2222",
+      "word": "poverty",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2223",
+      "word": "limitation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'l', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2224",
+      "word": "perfect",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2225",
+      "word": "intelligence",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2226",
+      "word": "infi",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'i', ends with 'i'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2227",
+      "word": "failure",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'f', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2228",
+      "word": "ignorance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2229",
+      "word": "destination",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2230",
+      "word": "source",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2231",
+      "word": "resort",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'r', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2232",
+      "word": "satisfaction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2233",
+      "word": "exam",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'm'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2234",
+      "word": "frequency",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'f', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2235",
+      "word": "selection",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2236",
+      "word": "substitution",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2237",
+      "word": "kingdom",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'k', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2238",
+      "word": "pattern",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2239",
+      "word": "management",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'm', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2240",
+      "word": "situation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2241",
+      "word": "multiply",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2242",
+      "word": "treatment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 't', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2243",
+      "word": "dollar",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2244",
+      "word": "intuition",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2245",
+      "word": "chapter",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2246",
+      "word": "magnet",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2247",
+      "word": "desire",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2248",
+      "word": "command",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2249",
+      "word": "action",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2250",
+      "word": "consciousness",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 's'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2251",
+      "word": "enemy",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'y'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2252",
+      "word": "security",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2253",
+      "word": "object",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'o', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2254",
+      "word": "happen",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2255",
+      "word": "happiness",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'h', ends with 's'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2256",
+      "word": "worry",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'y'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2257",
+      "word": "method",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2258",
+      "word": "tolerance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 't', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2259",
+      "word": "error",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'r'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2260",
+      "word": "hesitation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'h', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2261",
+      "word": "record",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'r', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2262",
+      "word": "tongue",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2263",
+      "word": "supply",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2264",
+      "word": "vibration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'v', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2265",
+      "word": "stress",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2266",
+      "word": "despair",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2267",
+      "word": "restaurant",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'r', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2268",
+      "word": "television",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 't', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2269",
+      "word": "video",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'v', ends with 'o'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2270",
+      "word": "audio",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'a', ends with 'o'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2271",
+      "word": "layer",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'l', ends with 'r'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2272",
+      "word": "mixture",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'm', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2273",
+      "word": "doorbell",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'd', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2274",
+      "word": "cousin",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2275",
+      "word": "beard",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'd'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2276",
+      "word": "finance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'f', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2277",
+      "word": "production",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2278",
+      "word": "invisible",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'i', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2279",
+      "word": "excitement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2280",
+      "word": "afternoon",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2281",
+      "word": "office",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'o', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2282",
+      "word": "alph",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'h'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2283",
+      "word": "illustration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2284",
+      "word": "valley",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'v', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2285",
+      "word": "apartment",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2286",
+      "word": "necessary",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'n', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2287",
+      "word": "shortage",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2288",
+      "word": "almost",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2289",
+      "word": "furni",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'i'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2290",
+      "word": "blanket",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2291",
+      "word": "suggestion",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2292",
+      "word": "overflow",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'o', ends with 'w'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2293",
+      "word": "demonstration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2294",
+      "word": "challenge",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2295",
+      "word": "compact",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2296",
+      "word": "tower",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 't', ends with 'r'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2297",
+      "word": "question",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'q', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2298",
+      "word": "problem",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2299",
+      "word": "pressure",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2300",
+      "word": "beast",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2301",
+      "word": "encouragement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2302",
+      "word": "afraid",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2303",
+      "word": "cavity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2304",
+      "word": "appearance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2305",
+      "word": "wonderful",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'l'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2306",
+      "word": "matter",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2307",
+      "word": "dimension",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2308",
+      "word": "business",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'b', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2309",
+      "word": "doubt",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 't'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2310",
+      "word": "conversation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2311",
+      "word": "reaction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'r', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2312",
+      "word": "psychology",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2313",
+      "word": "superstition",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2314",
+      "word": "smash",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'h'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2315",
+      "word": "horseshoe",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2316",
+      "word": "surprise",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2317",
+      "word": "nothing",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'n', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2318",
+      "word": "ladder",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'l', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2319",
+      "word": "opposite",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'o', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2320",
+      "word": "reality",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'r', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2321",
+      "word": "genius",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'g', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2322",
+      "word": "string",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2323",
+      "word": "destruction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2324",
+      "word": "expensive",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2325",
+      "word": "painting",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'p', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2326",
+      "word": "chicken",
+      "definition": "An animal.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2327",
+      "word": "wishing",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2328",
+      "word": "profession",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2329",
+      "word": "hatred",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2330",
+      "word": "possession",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2331",
+      "word": "criticism",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'm'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2332",
+      "word": "zebra",
+      "definition": "An animal.",
+      "hintText": "Starts with 'z', ends with 'a'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2333",
+      "word": "harmony",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2334",
+      "word": "personality",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'p', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2335",
+      "word": "overcom",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'o', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2336",
+      "word": "addition",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2337",
+      "word": "subtraction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2338",
+      "word": "cipher",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2339",
+      "word": "encryption",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2340",
+      "word": "compression",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2341",
+      "word": "extension",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2342",
+      "word": "blessing",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2343",
+      "word": "meeting",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'm', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2344",
+      "word": "difficulty",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2345",
+      "word": "weapon",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'w', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2346",
+      "word": "against",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2347",
+      "word": "external",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2348",
+      "word": "internal",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'i', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2349",
+      "word": "legend",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'l', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2350",
+      "word": "servant",
+      "definition": "A person or role.",
+      "hintText": "Starts with 's', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2351",
+      "word": "secondary",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2352",
+      "word": "license",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'l', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2353",
+      "word": "directory",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2354",
+      "word": "statistics",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 's'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2355",
+      "word": "attraction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2356",
+      "word": "sensitivity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 's', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2357",
+      "word": "magnification",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'm', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2358",
+      "word": "someone",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2359",
+      "word": "symptom",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'm'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2360",
+      "word": "recipe",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'r', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2361",
+      "word": "service",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2362",
+      "word": "family",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2363",
+      "word": "island",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'i', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2364",
+      "word": "planet",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'p', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2365",
+      "word": "butterfly",
+      "definition": "An animal.",
+      "hintText": "Starts with 'b', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2366",
+      "word": "diving",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2367",
+      "word": "strength",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'h'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2368",
+      "word": "extreme",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2369",
+      "word": "opportunity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'o', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2370",
+      "word": "illumination",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2371",
+      "word": "cable",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2372",
+      "word": "conflict",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2373",
+      "word": "interference",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2374",
+      "word": "receiver",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'r', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2375",
+      "word": "transmitter",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 't', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2376",
+      "word": "channel",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'c', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2377",
+      "word": "company",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2378",
+      "word": "grocery",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'g', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2379",
+      "word": "devil",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'l'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2380",
+      "word": "angel",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'l'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2381",
+      "word": "exactly",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2382",
+      "word": "document",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2383",
+      "word": "tutorial",
+      "definition": "A common English word.",
+      "hintText": "Starts with 't', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2384",
+      "word": "sound",
+      "definition": "A common English word.",
+      "hintText": "Starts with 's', ends with 'd'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2385",
+      "word": "voice",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'v', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2386",
+      "word": "abbreviation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2387",
+      "word": "abdomen",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2388",
+      "word": "abrupt",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2389",
+      "word": "absolute",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2390",
+      "word": "absorption",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2391",
+      "word": "abstract",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2392",
+      "word": "academy",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2393",
+      "word": "acceleration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2394",
+      "word": "acce",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2395",
+      "word": "accident",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2396",
+      "word": "account",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2397",
+      "word": "acidification",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2398",
+      "word": "actress",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'a', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2399",
+      "word": "adaptation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2400",
+      "word": "addiction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2401",
+      "word": "adjustment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2402",
+      "word": "admiration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2403",
+      "word": "adoption",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2404",
+      "word": "advanced",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2405",
+      "word": "adventure",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2406",
+      "word": "advertisement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2407",
+      "word": "agenda",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'a'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2408",
+      "word": "airport",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2409",
+      "word": "algorithm",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'a', ends with 'm'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2410",
+      "word": "allocation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2411",
+      "word": "aluminium",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'm'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2412",
+      "word": "ambiguity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2413",
+      "word": "ambit",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2414",
+      "word": "amphibian",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2415",
+      "word": "anaesthesia",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'a'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2416",
+      "word": "analogy",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2417",
+      "word": "anchor",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2418",
+      "word": "animation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2419",
+      "word": "anode",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2420",
+      "word": "cathode",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2421",
+      "word": "apparent",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2422",
+      "word": "appendix",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'x'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2423",
+      "word": "approval",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2424",
+      "word": "approximation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2425",
+      "word": "arbitrary",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2426",
+      "word": "architecture",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2427",
+      "word": "arithmetic",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'c'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2428",
+      "word": "arrangement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2429",
+      "word": "article",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2430",
+      "word": "ascending",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'g'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2431",
+      "word": "ashamed",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'd'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2432",
+      "word": "asleep",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'p'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2433",
+      "word": "assas",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 's'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2434",
+      "word": "assembly",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2435",
+      "word": "astonishment",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'a', ends with 't'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2436",
+      "word": "atmosphere",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2437",
+      "word": "awful",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'a', ends with 'l'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2438",
+      "word": "bachelor",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2439",
+      "word": "backbone",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2440",
+      "word": "back",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'k'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2441",
+      "word": "bacteria",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'a'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2442",
+      "word": "balance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2443",
+      "word": "balloon",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2444",
+      "word": "banana",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 'a'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2445",
+      "word": "barbecue",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2446",
+      "word": "baseball",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2447",
+      "word": "beaker",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2448",
+      "word": "beggar",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2449",
+      "word": "behaviour",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2450",
+      "word": "benefit",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2451",
+      "word": "bidirectional",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'l'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2452",
+      "word": "biology",
+      "definition": "A technology or science term.",
+      "hintText": "Starts with 'b', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2453",
+      "word": "blackboard",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'd'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2454",
+      "word": "bladder",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2455",
+      "word": "bleeding",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'g'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2456",
+      "word": "blender",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2457",
+      "word": "bonus",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 's'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2458",
+      "word": "bottle",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2459",
+      "word": "bracket",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2460",
+      "word": "branch",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'h'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2461",
+      "word": "brill",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'l'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2462",
+      "word": "bubble",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2463",
+      "word": "bucket",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2464",
+      "word": "budget",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2465",
+      "word": "bullet",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2466",
+      "word": "burglar",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2467",
+      "word": "butcher",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'b', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2468",
+      "word": "bypass",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'b', ends with 's'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2469",
+      "word": "cafeter",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'r'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2470",
+      "word": "calculator",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2471",
+      "word": "calibration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2472",
+      "word": "campaign",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2473",
+      "word": "cancellation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2474",
+      "word": "candidate",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2475",
+      "word": "candle",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2476",
+      "word": "carpenter",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'c', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2477",
+      "word": "carriage",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2478",
+      "word": "cartoon",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2479",
+      "word": "cascade",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2480",
+      "word": "casual",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2481",
+      "word": "catalyst",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2482",
+      "word": "category",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2483",
+      "word": "cement",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2484",
+      "word": "ceremony",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2485",
+      "word": "chairman",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2486",
+      "word": "checkout",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2487",
+      "word": "chimney",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2488",
+      "word": "chocolate",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2489",
+      "word": "cigarette",
+      "definition": "An everyday object.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2490",
+      "word": "circumference",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2491",
+      "word": "civilization",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2492",
+      "word": "classroom",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 'm'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2493",
+      "word": "clearance",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2494",
+      "word": "client",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2495",
+      "word": "coconut",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'c', ends with 't'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2496",
+      "word": "coincidence",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2497",
+      "word": "colleague",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'c', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2498",
+      "word": "competition",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'c', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2499",
+      "word": "kangaroo",
+      "definition": "An animal.",
+      "hintText": "Starts with 'k', ends with 'o'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2500",
+      "word": "kidnap",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'k', ends with 'p'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2501",
+      "word": "journal",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'j', ends with 'l'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2502",
+      "word": "jockey",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'j', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2503",
+      "word": "iteration",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2504",
+      "word": "isometric",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'i', ends with 'c'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2505",
+      "word": "isolation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2506",
+      "word": "invitation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2507",
+      "word": "inter",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'i', ends with 'r'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2508",
+      "word": "institution",
+      "definition": "A place or structure.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2509",
+      "word": "injection",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'i', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2510",
+      "word": "humanity",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'h', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2511",
+      "word": "housekeeper",
+      "definition": "A person or role.",
+      "hintText": "Starts with 'h', ends with 'r'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2512",
+      "word": "history",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'y'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2513",
+      "word": "heaven",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'h', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2514",
+      "word": "greenhouse",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'g', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2515",
+      "word": "glory",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'g', ends with 'y'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2516",
+      "word": "foundation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'f', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2517",
+      "word": "formula",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'f', ends with 'a'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2518",
+      "word": "fluctuation",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'f', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2519",
+      "word": "fiction",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'f', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2520",
+      "word": "extra",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'e', ends with 'a'.",
+      "difficulty": "Easy"
+    },
+    {
+      "id": "w-2521",
+      "word": "emission",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 'n'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2522",
+      "word": "elasticity",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'e', ends with 'y'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2523",
+      "word": "earthquake",
+      "definition": "A natural thing or place.",
+      "hintText": "Starts with 'e', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2524",
+      "word": "dynamic",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'c'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2525",
+      "word": "doctorate",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2526",
+      "word": "divorce",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'd', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2527",
+      "word": "nightmare",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'n', ends with 'e'.",
+      "difficulty": "Hard"
+    },
+    {
+      "id": "w-2528",
+      "word": "virtue",
+      "definition": "A common English word.",
+      "hintText": "Starts with 'v', ends with 'e'.",
+      "difficulty": "Medium"
+    },
+    {
+      "id": "w-2529",
+      "word": "description",
+      "definition": "An abstract noun.",
+      "hintText": "Starts with 'd', ends with 'n'.",
+      "difficulty": "Hard"
+    },
+    {
+    "id": "w-2530",
+    "word": "Apple",
+    "definition": "A round fruit with a firm, crisp flesh and a core containing seeds. They come in various colors, including red, green, and yellow.",
+    "hintText": "A common fruit often used in pies.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2531",
+    "word": "Apricot",
+    "definition": "A small, orange-colored fruit similar to a peach or plum, with a velvety skin and a single large seed inside.",
+    "hintText": "A fuzzy, orange stone fruit.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2532",
+    "word": "Avocado",
+    "definition": "A creamy, green fruit with a large central pit. It's known for its high fat content and is often used in guacamole.",
+    "hintText": "A 'superfood' used to make guacamole.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2533",
+    "word": "Bilberry",
+    "definition": "A small, dark-blue fruit similar to a blueberry, native to northern Europe.",
+    "hintText": "A European fruit similar to a blueberry.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-534",
+    "word": "Blackberry",
+    "definition": "An edible, dark purple-black fruit that grows on a thorny bush, composed of many small drupelets.",
+    "hintText": "A dark, seedy berry often found on thorny bushes.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2535",
+    "word": "Blackcurrant",
+    "definition": "A small, dark berry known for its tart flavor, often used in jams, juices, and desserts.",
+    "hintText": "A tart, dark berry used in Ribena.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-2536",
+    "word": "Blueberry",
+    "definition": "A small, round, blue-purple berry that grows on a shrub, known for its sweet flavor and use in baked goods.",
+    "hintText": "A popular berry often found in muffins and pancakes.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2537",
+    "word": "Boysenberry",
+    "definition": "A hybrid berry that is a cross between a raspberry, blackberry, and loganberry.",
+    "hintText": "A hybrid berry that is a mix of three others.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "w-2538",
+    "word": "Currant",
+    "definition": "A small, edible berry that grows in clusters, coming in red, black, or white varieties.",
+    "hintText": "A small, clustered berry that can be red, white, or black.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-2539",
+    "word": "Cherry",
+    "definition": "A small, round stone fruit that is typically red or black when ripe, growing on a tree.",
+    "hintText": "A small, red fruit with a pit, often on top of an ice cream sundae.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2540",
+    "word": "Cherimoya",
+    "definition": "A heart-shaped fruit with green skin and creamy white flesh, known as the 'custard apple' due to its texture.",
+    "hintText": "A tropical fruit often called a 'custard apple'.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "w-2541",
+    "word": "Cloudberry",
+    "definition": "An amber-colored edible fruit that grows in northern regions, resembling a golden raspberry.",
+    "hintText": "An amber-colored berry from cold climates.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "w-24878",
+    "word": "Coconut",
+    "definition": "A large nut with a hard, fibrous shell, containing white meat and a sweet liquid (water).",
+    "hintText": "A tropical fruit with a hard shell and liquid inside.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-24887",
+    "word": "Cranberry",
+    "definition": "A small, round, red berry known for its tart flavor, often used in sauces, juices, and holiday dishes.",
+    "hintText": "A tart red berry associated with Thanksgiving.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-24890",
+    "word": "Custard apple",
+    "definition": "A fruit with a bumpy green skin and a soft, creamy, sweet pulp inside, related to the cherimoya.",
+    "hintText": "A tropical fruit with creamy flesh, also known as cherimoya.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "w-249086",
+    "word": "Damson",
+    "definition": "A small, purplish-blue plum-like fruit, known for its sharp, tart flavor and used primarily in jams and preserves.",
+    "hintText": "A tart, purplish fruit similar to a plum.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-249176",
+    "word": "Date",
+    "definition": "A sweet, edible fruit of the date palm tree, often sold dried.",
+    "hintText": "A sweet, brown fruit from a palm tree.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2492345",
+    "word": "Dragonfruit",
+    "definition": "A vibrant pink fruit with spiky green scales and white or pink flesh speckled with tiny black seeds.",
+    "hintText": "A tropical fruit that looks like it has scales.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-249389o",
+    "word": "Durian",
+    "definition": "A large, spiky fruit known for its strong, pungent odor, sometimes banned in public places for its smell.",
+    "hintText": "A spiky, tropical fruit famous for its strong smell.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "w-2494o8jj",
+    "word": "Elderberry",
+    "definition": "A small, dark purple-black berry from the elder tree, often used in syrups, wines, and health remedies.",
+    "hintText": "A dark berry often made into syrup for colds.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-24958l8",
+    "word": "Feijoa",
+    "definition": "A small, green fruit with a distinctive sweet and tart flavor, sometimes described as a mix of pineapple, guava, and strawberry.",
+    "hintText": "A green fruit with a tropical, sweet flavor.",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "w-24968ll8",
+    "word": "Fig",
+    "definition": "A sweet, pear-shaped fruit with soft, seedy flesh, often eaten fresh or dried.",
+    "hintText": "A soft, seedy fruit often found in Newton cookies.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-24978l8",
+    "word": "Goji berry",
+    "definition": "A small, red-orange berry known as a 'superfruit' for its nutritional value.",
+    "hintText": "A small, red 'superfruit' often sold dried.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-2498l8l8",
+    "word": "Gooseberry",
+    "definition": "A small, round, translucent berry that can be green, yellow, or red, known for its tart flavor.",
+    "hintText": "A tart berry that can be green or red.",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "w-2499l8l8",
+    "word": "Grape",
+    "definition": "A small, round or oval berry that grows in clusters on a vine, used to make wine, juice, and raisins.",
+    "hintText": "A small fruit that grows on a vine and can be used to make wine.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2500l8l88",
+    "word": "Raisin",
+    "definition": "A dried grape, often used in baking or eaten as a snack.",
+    "hintText": "A dried fruit often found in oatmeal cookies.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2501l8l8",
+    "word": "Grapefruit",
+    "definition": "A large, round citrus fruit with a yellow or pinkish rind and a tart, juicy pulp.",
+    "hintText": "A large citrus fruit, often eaten for breakfast, with a pink or yellow interior.",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "w-2502l8l8",
+    "word": "Guava",
+    "definition": "A tropical fruit with a sweet and musky flavor, known for its edible rind and pink or white flesh.",
+    "hintText": "A tropical fruit with a sweet, floral scent.",
+    "difficulty": "Medium"
+  }
+  ]
+}
