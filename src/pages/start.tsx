@@ -15,7 +15,7 @@ export default function Start({ onStart }: Props) {
       <h1 className="text-3xl sm:text-4xl font-extrabold tracking-wide">HangInLearn</h1>
 
       <p className="opacity-80 text-center max-w-xs -mt-1">
-        Choose a difficulty and test your English vocabulary.
+        Choose a difficulty and test your vocabulary.
       </p>
 
       <div className="w-full max-w-sm grid grid-cols-3 gap-3">
