@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { useSettings } from "../state/settings";
 import ToggleSwitch from "../components/ToggleSwitch";
 import { Cog6ToothIcon } from "@heroicons/react/24/outline";
+import { enableDailyReminder, disableDailyReminder } from "../utils/notify";
 
 type Props = { onStart: (difficulty: "Easy" | "Medium" | "Hard") => void };
 
@@ -86,6 +87,21 @@ export default function Start({ onStart }: Props) {
                 onChange={(v) => setSettings((s) => ({ ...s, sound: v }))}
                 />
             </div>
+            
+             <div className="mb-2">
+                <div className="text-sm font-medium mb-2">Daily reminder</div>
+                <ToggleSwitch
+                    leftLabel="OFF"
+                    rightLabel="ON"
+                    tone="blue"
+                    constantTrack
+                    checked={settings.reminder ?? false}
+                    onChange={async (v) => {
+                    const ok = v ? await enableDailyReminder(9, 0) : (await disableDailyReminder(), true);
+                    if (ok) setSettings(s => ({ ...s, reminder: v })); // persist choice
+                    }}
+                />
+                </div>
 
             <div className="flex justify-end mt-4">
               <button onClick={() => setOpen(false)} className="px-4 py-2 rounded-xl border">

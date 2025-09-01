@@ -2,7 +2,7 @@ import React, { createContext, useContext, useEffect, useState } from "react";
 
 
 export type Lang = "en" | "fr";
-export type Settings = { lang: Lang; sound: boolean };
+export type Settings = { lang: Lang; sound: boolean; reminder?: boolean; };
 
 const KEY = "hanginlearn.settings.v1";
 
@@ -10,7 +10,7 @@ const Ctx = createContext<{
   settings: Settings;
   setSettings: React.Dispatch<React.SetStateAction<Settings>>;
 }>({
-  settings: { lang: "en", sound: true },
+  settings: { lang: "en", sound: true, reminder: false  },
   setSettings: () => {},
 });
 
@@ -19,7 +19,7 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
     try {
       return JSON.parse(localStorage.getItem(KEY) || "") as Settings;
     } catch {
-      return { lang: "en", sound: true };
+      return { lang: "en", sound: true, reminder: false };
     }
   });
 
