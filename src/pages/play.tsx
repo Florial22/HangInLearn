@@ -3,6 +3,7 @@ import HangmanCanvas from "../components/HangmanCanvas";
 import confetti from "canvas-confetti";
 import { useSettings } from "../state/settings";
 import { asset } from "../lib/asset";
+import { loadWords } from "../lib/words";
 
 
 type Difficulty = "Easy" | "Medium" | "Hard";
@@ -94,21 +95,23 @@ export default function Play({ difficulty, onExit }: PlayProps) {
       };
     }, []);
 
-  // Load local words
+    
+    // load online word and fallback to local
 
-  useEffect(() => {
-    const file =
-      settings.lang === "fr"
-        ? "assets/words/french_words.json"
-        : "assets/words/custom_words.json";
+      useEffect(() => {
+      const remoteBase = "https://raw.githubusercontent.com/Florial22/HangInLearn/feature/remote-words/public/online";
+      const remote = `${remoteBase}/words_${settings.lang}.json`;
+      const fallback =
+        settings.lang === "fr"
+          ? asset("assets/words/fr_words.json")
+          : asset("assets/words/custom_words.json");
 
-    fetch(asset(file) + `?v=${Date.now()}`)
-      .then((r) => r.json())
-      .then((data) => setPack(data.words))
-      .catch(() =>
-        setPack([{ id: "fallback", word: settings.lang === "fr" ? "pomme" : "apple" } as any])
-      );
-  }, [settings.lang]);
+      loadWords(remote, fallback, `hanginlearn.words.${settings.lang}.v1`)
+        .then(setPack)
+        .catch(() =>
+          setPack([{ id: "fallback", word: settings.lang === "fr" ? "pomme" : "apple" } as any])
+        );
+    }, [settings.lang]);
 
 
 
