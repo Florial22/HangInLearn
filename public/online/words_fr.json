@@ -1816,46 +1816,13 @@
     "hintText": "Commence par 's', finit par 'r'.",
     "difficulty": "Hard"
   },
-  {
-    "id": "fr-5a582690",
-    "word": "s'appeler",
-    "definition": "Définition simple du mot «s'appeler».",
-    "hintText": "Commence par 's', finit par 'r'.",
-    "difficulty": "Hard"
-  },
-  {
-    "id": "fr-cec31d9c",
-    "word": "s'arrêter",
-    "definition": "Définition simple du mot «s'arrêter».",
-    "hintText": "Commence par 's', finit par 'r'.",
-    "difficulty": "Hard"
-  },
-  {
-    "id": "fr-9569ba41",
-    "word": "s'asseoir",
-    "definition": "Définition simple du mot «s'asseoir».",
-    "hintText": "Commence par 's', finit par 'r'.",
-    "difficulty": "Hard"
-  },
-  {
-    "id": "fr-4830364f",
-    "word": "s'endormir",
-    "definition": "Définition simple du mot «s'endormir».",
-    "hintText": "Commence par 's', finit par 'r'.",
-    "difficulty": "Hard"
-  },
-  {
-    "id": "fr-b293348b",
-    "word": "s'ennuyer",
-    "definition": "Définition simple du mot «s'ennuyer».",
-    "hintText": "Commence par 's', finit par 'r'.",
-    "difficulty": "Hard"
-  },
+  
+  
   {
     "id": "fr-1508845d",
-    "word": "s'excuser",
+    "word": "excuse",
     "definition": "Définition simple du mot «s'excuser».",
-    "hintText": "Commence par 's', finit par 'r'.",
+    "hintText": "Commence par 'e', finit par 'e'.",
     "difficulty": "Hard"
   },
   {
@@ -5548,13 +5515,6 @@
     "difficulty": "Medium"
   },
   {
-    "id": "fr-d4b1d1b4",
-    "word": "l'année",
-    "definition": "Définition simple du mot «l'année».",
-    "hintText": "Commence par 'l', finit par 'e'.",
-    "difficulty": "Medium"
-  },
-  {
     "id": "fr-9001f66c",
     "word": "laisser",
     "definition": "Définition simple du mot «laisser».",
@@ -5577,39 +5537,26 @@
   },
   {
     "id": "fr-2ebfbbfa",
-    "word": "l'argent",
+    "word": "argent",
     "definition": "Définition simple du mot «l'argent».",
-    "hintText": "Commence par 'l', finit par 't'.",
+    "hintText": "Commence par 'a', finit par 't'.",
     "difficulty": "Medium"
   },
   {
     "id": "fr-86071ee6",
-    "word": "l'école",
-    "definition": "Définition simple du mot «l'école».",
+    "word": "ecole",
+    "definition": "Définition simple du mot «ecole».",
     "hintText": "Commence par 'l', finit par 'e'.",
     "difficulty": "Medium"
   },
   {
     "id": "fr-055fffc5",
-    "word": "l'eau",
+    "word": "eau",
     "definition": "Définition simple du mot «l'eau».",
-    "hintText": "Commence par 'l', finit par 'u'.",
+    "hintText": "Commence par 'e', finit par 'u'.",
     "difficulty": "Easy"
   },
-  {
-    "id": "fr-5d4c4d90",
-    "word": "le",
-    "definition": "Définition simple du mot «le».",
-    "hintText": "Commence par 'l', finit par 'e'.",
-    "difficulty": "Easy"
-  },
-  {
-    "id": "fr-0416b574",
-    "word": "la",
-    "definition": "Définition simple du mot «la».",
-    "hintText": "Commence par 'l', finit par 'a'.",
-    "difficulty": "Easy"
-  },
+  
   {
     "id": "fr-f43dfdae",
     "word": "les",
@@ -5731,16 +5678,16 @@
   },
   {
     "id": "fr-689ef1e3",
-    "word": "l'autre",
+    "word": "autre",
     "definition": "Définition simple du mot «l'autre».",
-    "hintText": "Commence par 'l', finit par 'e'.",
+    "hintText": "Commence par 'a', finit par 'e'.",
     "difficulty": "Medium"
   },
   {
     "id": "fr-2cc533ec",
-    "word": "l'usine",
+    "word": "usine",
     "definition": "Définition simple du mot «l'usine».",
-    "hintText": "Commence par 'l', finit par 'e'.",
+    "hintText": "Commence par 'u', finit par 'e'.",
     "difficulty": "Medium"
   },
   {

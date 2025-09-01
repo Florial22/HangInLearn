@@ -99,7 +99,7 @@ export default function Play({ difficulty, onExit }: PlayProps) {
     // load online word and fallback to local
 
       useEffect(() => {
-      const remoteBase = "https://raw.githubusercontent.com/Florial22/HangInLearn/main/public/onlin";
+      const remoteBase = "https://raw.githubusercontent.com/Florial22/HangInLearn/main/public/online";
       const remote = `${remoteBase}/words_${settings.lang}.json`;
       const fallback =
         settings.lang === "fr"
@@ -404,7 +404,7 @@ export default function Play({ difficulty, onExit }: PlayProps) {
         {/* Wrong words — reserve space even when empty */}
           <div className={`w-full text-center ${keyboardOpen ? "min-h-[28px]" : "min-h-[40px]"}`}>
                 <div className={`transition-opacity duration-150 ${wrongLetters.length ? "opacity-100" : "opacity-0"}`} aria-hidden={wrongLetters.length === 0}>
-                  <div className="text-lg font-semibold mb-1">Wrong words :</div>
+                  <div className="text-lg font-semibold mb-1">Wrong letters :</div>
                   <div className="font-semibold tracking-wide" style={{ color: "#ef4444" }}>
                     {wrongLetters.join("  •  ")}
                   </div>

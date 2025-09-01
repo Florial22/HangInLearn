@@ -34,7 +34,9 @@ export default function Start({ onStart }: Props) {
       <h1 className="text-3xl sm:text-4xl font-extrabold tracking-wide">HangInLearn</h1>
 
       <p className="opacity-80 text-center max-w-xs -mt-1">
-        Choose a difficulty and text your vocabulary.
+        {settings.lang === "fr"
+          ? "Choisis une difficulté et teste ton vocabulaire."
+          : "Choose a difficulty and test your vocabulary."}
       </p>
 
       {/* Difficulty buttons */}
