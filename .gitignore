@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+.env
+.env.*
+android/build/
+android/app/build/
+ios/DerivedData/
+ios/build/

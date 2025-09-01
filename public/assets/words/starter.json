@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "lang": "en",
+  "updatedAt": "2025-08-31",
+  "words": [
+    { "id": "w-001", "word": "apple",   "definition": "A round fruit.",                       "hintText": "Starts with 'a', ends with 'e'.", "difficulty": "Easy" },
+    { "id": "w-002", "word": "river",   "definition": "A large stream.",                      "hintText": "Starts with 'r', ends with 'r'.", "difficulty": "Easy" },
+    { "id": "w-003", "word": "light",   "definition": "What lets you see.",                   "hintText": "Starts with 'l', ends with 't'.", "difficulty": "Easy" },
+    { "id": "w-004", "word": "zebra",   "definition": "A striped African horse.",             "hintText": "Starts with 'z', ends with 'a'.", "difficulty": "Easy" },
+    { "id": "w-005", "word": "ocean",   "definition": "A very large sea.",                    "hintText": "Starts with 'o', ends with 'n'.", "difficulty": "Easy" },
+
+    { "id": "w-006", "word": "music",   "definition": "Organized sound.",                     "hintText": "Starts with 'm', ends with 'c'.", "difficulty": "Easy" },
+    { "id": "w-007", "word": "bridge",  "definition": "A structure over a gap.",              "hintText": "Starts with 'b', ends with 'e'.", "difficulty": "Medium" },
+    { "id": "w-008", "word": "planet",  "definition": "A body orbiting a star.",              "hintText": "Starts with 'p', ends with 't'.", "difficulty": "Medium" },
+    { "id": "w-009", "word": "mountain","definition": "A very high hill.",                    "hintText": "Starts with 'm', ends with 'n'.", "difficulty": "Medium" },
+    { "id": "w-010", "word": "pencil",  "definition": "A writing tool.",                      "hintText": "Starts with 'p', ends with 'l'.", "difficulty": "Medium" },
+    { "id": "w-011", "word": "window",  "definition": "An opening in a wall.",                "hintText": "Starts with 'w', ends with 'w'.", "difficulty": "Medium" },
+    { "id": "w-012", "word": "basket",  "definition": "A woven container.",                   "hintText": "Starts with 'b', ends with 't'.", "difficulty": "Medium" },
+    { "id": "w-013", "word": "forest",  "definition": "A large area of trees.",               "hintText": "Starts with 'f', ends with 't'.", "difficulty": "Medium" },
+    { "id": "w-014", "word": "camera",  "definition": "A device for photos.",                 "hintText": "Starts with 'c', ends with 'a'.", "difficulty": "Medium" },
+    { "id": "w-015", "word": "butter",  "definition": "A yellow dairy spread.",               "hintText": "Starts with 'b', ends with 'r'.", "difficulty": "Medium" }
+  ]
+}

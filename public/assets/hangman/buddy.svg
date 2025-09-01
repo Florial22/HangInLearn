@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="36 156 288 268" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Hang man</title>
+  <desc></desc>
+
+  <!-- Background removed -->
+
+  <!-- 0) SCAFFOLD (line-based) -->
+  <g id="scaffold" stroke="#6451CB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- ground line -->
+    <line x1="40" y1="420" x2="320" y2="420"/>
+
+    <!-- tree trunk -->
+    <line x1="80" y1="420" x2="80" y2="160"/>
+
+    <!-- branch -->
+    <line x1="80" y1="160" x2="200" y2="160"/>
+
+    <!-- rope -->
+    <line x1="190" y1="160" x2="190" y2="190"/>
+
+    <!-- hanging sign -->
+    <rect x="160" y="190" width="60" height="30" rx="4"/>
+
+    <!-- stump (optional) -->
+    <!-- <circle cx="180" cy="420" r="20"/> -->
+  </g>
+
+  <!-- 1) HEAD -->
+  <g id="head">
+    <circle cx="180" cy="250" r="20" stroke="#B07D45" stroke-width="4" fill="none"/>
+  </g>
+
+  <!-- 2) TORSO -->
+  <g id="torso">
+    <line x1="180" y1="270" x2="180" y2="350" stroke="#B07D45" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- 3) ARM LEFT -->
+  <g id="arm-left">
+    <line x1="180" y1="290" x2="140" y2="320" stroke="#03A696" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- 4) ARM RIGHT -->
+  <g id="arm-right">
+    <line x1="180" y1="290" x2="220" y2="320" stroke="#03A696" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- 5) LEG LEFT -->
+  <g id="leg-left">
+    <line x1="180" y1="350" x2="150" y2="400" stroke="#6451CB" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- 6) LEG RIGHT -->
+  <g id="leg-right">
+    <line x1="180" y1="350" x2="210" y2="400" stroke="#6451CB" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- 7) FACE -->
+  <g id="face">
+    <circle cx="172" cy="248" r="2.5" fill="#6451CB"/>
+    <circle cx="188" cy="248" r="2.5" fill="#6451CB"/>
+    <path d="M172,258 Q180,266 188,258" stroke="#03A696" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
