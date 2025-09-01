@@ -1,11 +1,16 @@
-import React, { useState } from "react";
+import { useState } from "react";
+import { SettingsProvider } from "./state/settings";
 import Start from "./pages/start";
-import Play from "./pages/Play";
+import Play from "./pages/play";
 
 export default function App() {
-  const [difficulty, setDifficulty] = useState<"Easy"|"Medium"|"Hard"|null>(null);
+  const [difficulty, setDifficulty] = useState<"Easy" | "Medium" | "Hard" | null>(null);
 
-  if (!difficulty) return <Start onStart={setDifficulty} />;
-
-  return <Play difficulty={difficulty} onExit={() => setDifficulty(null)} />;
+  return (
+    <SettingsProvider>
+      {!difficulty
+        ? <Start onStart={setDifficulty} />
+        : <Play difficulty={difficulty} onExit={() => setDifficulty(null)} />}
+    </SettingsProvider>
+  );
 }

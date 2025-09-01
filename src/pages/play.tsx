@@ -1,6 +1,8 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import HangmanCanvas from "../components/HangmanCanvas";
 import confetti from "canvas-confetti";
+import { useSettings } from "../state/settings";
+import { asset } from "../lib/asset";
 
 
 type Difficulty = "Easy" | "Medium" | "Hard";
@@ -37,6 +39,42 @@ export default function Play({ difficulty, onExit }: PlayProps) {
   const winSfxRef = useRef<HTMLAudioElement | null>(null);
   const loseSfxRef = useRef<HTMLAudioElement | null>(null);
 
+  // Get settings 
+  const { settings } = useSettings();
+  const lost = misses >= maxMisses;
+
+
+  // ✅ unlock once after first tap/key
+    const audioUnlocked = useRef(false);
+    const unlockAudio = () => {
+      if (audioUnlocked.current) return;
+      [winSfxRef.current, loseSfxRef.current].forEach((a) => {
+        if (!a) return;
+        try {
+          a.muted = true;
+          a.play()?.then(() => {
+            a.pause();
+            a.currentTime = 0;
+            a.muted = false;
+            audioUnlocked.current = true;
+          }).catch(() => {});
+        } catch {}
+      });
+    };
+
+    // listen for first user gesture (works on iOS/Android)
+    useEffect(() => {
+      const once = () => unlockAudio();
+      window.addEventListener("pointerdown", once, { once: true, passive: true });
+      window.addEventListener("keydown", once, { once: true });
+      return () => {
+        window.removeEventListener("pointerdown", once);
+        window.removeEventListener("keydown", once);
+      };
+    }, []);
+
+    
+
 
   const [keyboardOpen, setKeyboardOpen] = useState(false);
 
@@ -57,25 +95,42 @@ export default function Play({ difficulty, onExit }: PlayProps) {
     }, []);
 
   // Load local words
-    useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}assets/words/custom_words.json`) 
+
+  useEffect(() => {
+    const file =
+      settings.lang === "fr"
+        ? "assets/words/french_words.json"
+        : "assets/words/custom_words.json";
+
+    fetch(asset(file) + `?v=${Date.now()}`)
       .then((r) => r.json())
       .then((data) => setPack(data.words))
-      .catch(() => setPack([{ id: "fallback", word: "apple" }]));
-  }, []);
+      .catch(() =>
+        setPack([{ id: "fallback", word: settings.lang === "fr" ? "pomme" : "apple" } as any])
+      );
+  }, [settings.lang]);
 
 
-    // Play win sound + confetti
-    useEffect(() => {
-      const a = new Audio(`${import.meta.env.BASE_URL}sfx/win.mp3`);
-      a.preload = "auto"; a.volume = 0.6; winSfxRef.current = a;
-    }, []);
+
+    // // Play win sound + confetti
+    //   useEffect(() => {
+    //   if (!won) return;
+    //   fireConfetti();
+    //   if (settings.sound && winSfxRef.current) {
+    //     try { winSfxRef.current.currentTime = 0; void winSfxRef.current.play(); } catch {}
+    //   }
+    // }, [won, settings.sound]);
 
 
-     useEffect(() => {
-        const a = new Audio(`${import.meta.env.BASE_URL}sfx/loss.mp3`);
-        a.preload = "auto"; a.volume = 0.6; loseSfxRef.current = a;
-      }, []);
+    // // Play lose sound + vibrate
+    //  useEffect(() => {
+    //   if (!lost) return;
+    //   if (settings.sound && loseSfxRef.current) {
+    //     try { loseSfxRef.current.currentTime = 0; void loseSfxRef.current.play(); } catch {}
+    //   }
+    //   if ("vibrate" in navigator) navigator.vibrate?.(200);
+    // }, [lost, settings.sound]);
+
 
 
   // Filter words by difficulty
@@ -125,13 +180,15 @@ export default function Play({ difficulty, onExit }: PlayProps) {
     [target]
   );
 
+  const won = target && [...lettersInWord].every((l) => guesses.has(l));
+
   const wrongLetters = useMemo(
     () => [...guesses].filter((g) => !lettersInWord.has(g)).sort(),
     [guesses, lettersInWord]
   );
 
-  const won = target && [...lettersInWord].every((l) => guesses.has(l));
-  const lost = misses >= maxMisses;
+  // const won = target && [...lettersInWord].every((l) => guesses.has(l));
+  // const lost = misses >= maxMisses;
   const showResult = won || lost;
   const stage = lost ? 7 : Math.min(misses, maxMisses); // face only on loss
 
@@ -161,7 +218,44 @@ export default function Play({ difficulty, onExit }: PlayProps) {
         current?.definition ??
         (cleaned ? `Starts with “${cleaned[0]}” and ends with “${cleaned.slice(-1)}”.` : "");
 
+//--------------------------------------------------------------important------------------------------------------------------------------------------
+//--------------------------------------------------------------important--------------------------------------------------------------
+//--------------------------------------------------------------important--------------------------------------------------------------
 
+
+    useEffect(() => {
+      const a = new Audio(asset("sfx/win.mp3"));
+      a.preload = "auto"; a.volume = 0.6;
+      a.addEventListener("error", () => console.error("WIN SFX load error:", a.src));
+      winSfxRef.current = a;
+    }, []);
+
+    useEffect(() => {
+      const a = new Audio(asset("sfx/loss.mp3"));
+      a.preload = "auto"; a.volume = 0.6;
+      a.addEventListener("error", () => console.error("LOSS SFX load error:", a.src));
+      loseSfxRef.current = a;
+    }, []);
+
+
+// Play win sound + confetti
+      useEffect(() => {
+      if (!won) return;
+      fireConfetti();
+      if (settings.sound && winSfxRef.current) {
+        try { winSfxRef.current.currentTime = 0; void winSfxRef.current.play(); } catch {}
+      }
+    }, [won, settings.sound]);
+
+
+    // Play lose sound + vibrate
+     useEffect(() => {
+      if (!lost) return;
+      if (settings.sound && loseSfxRef.current) {
+        try { loseSfxRef.current.currentTime = 0; void loseSfxRef.current.play(); } catch {}
+      }
+      if ("vibrate" in navigator) navigator.vibrate?.(200);
+    }, [lost, settings.sound]);
       
 
 
@@ -244,6 +338,12 @@ export default function Play({ difficulty, onExit }: PlayProps) {
         {/* Top bar */}
         <div className="w-full flex items-center justify-between">
           <button onClick={onExit} className="text-sm opacity-80">← back</button>
+          {/* Current language (center) */}
+          <div className="justify-self-center">
+            <span className="px-3 py-1 rounded-full text-xs font-semibold bg-blue-600 text-white">
+              {settings.lang.toUpperCase()}
+            </span>
+          </div>
           <div className="text-sm opacity-80">Lives: {Math.max(0, maxMisses - misses)}</div>
         </div>
 
@@ -259,17 +359,18 @@ export default function Play({ difficulty, onExit }: PlayProps) {
               spellCheck={false}
               maxLength={1}
               placeholder="Type a letter"
-              onFocus={(e) => {
-                // keep the field visible when the keyboard opens
-                setTimeout(() => {
-                  e.currentTarget.scrollIntoView({ block: "center", behavior: "smooth" });
-                }, 0);
-              }}
-              onChange={(e) => {
-                const v = e.currentTarget.value;
-                if (v) guessLetter(v);
-                e.currentTarget.value = "";
-              }}
+                onFocus={(e) => {
+                  unlockAudio(); 
+                  setTimeout(() => {
+                    e.currentTarget.scrollIntoView({ block: "center", behavior: "smooth" });
+                  }, 0);
+                }}
+                onChange={(e) => {
+                  unlockAudio(); 
+                  const v = e.currentTarget.value;
+                  if (v) guessLetter(v);
+                  e.currentTarget.value = "";
+                }}
               className="w-64 text-center text-lg rounded-2xl border-2 shadow"
               style={{
                 padding: "4px 15px",

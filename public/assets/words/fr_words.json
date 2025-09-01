@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "lang": "fr",
+  "updatedAt": "2025-09-01",
+  "words": [
+    { "id": "fr-0001", "word": "pomme",      "definition": "Un fruit rond.",                       "hintText": "Commence par 'p', finit par 'e'.", "difficulty": "Easy" },
+    { "id": "fr-0002", "word": "rivière",    "defipnition": "Un grand cours d'eau.",                "hintText": "Commence par 'r', finit par 'e'.", "difficulty": "Easy" },
+    { "id": "fr-0003", "word": "montagne",   "definition": "Une très haute colline.",              "hintText": "Commence par 'm', finit par 'e'.", "difficulty": "Medium" },
+    { "id": "fr-0004", "word": "ordinateur", "definition": "Une machine pour calculer.",           "hintText": "Commence par 'o', finit par 'r'.", "difficulty": "Hard" },
+    { "id": "fr-0005", "word": "football",   "definition": "Un sport avec un ballon.",             "hintText": "Commence par 'f', finit par 'l'.", "difficulty": "Medium" },
+    { "id": "fr-0006", "word": "pantalon",   "definition": "Vêtement pour les jambes.", "hintText": "Commence par 'p', finit par 'n'.", "difficulty": "Medium" },
+    { "id": "fr-0007", "word": "chanson",    "definition": "Musique avec des paroles.", "hintText": "Commence par 'c', finit par 'n'.", "difficulty": "Medium" },
+    { "id": "fr-0008", "word": "hôpital",    "definition": "Lieu pour soigner.",        "hintText": "Commence par 'h', finit par 'l'.", "difficulty": "Medium" },
+    { "id": "fr-0009", "word": "bibliothèque","definition": "Lieu pour les livres.",    "hintText": "Commence par 'b', finit par 'e'.", "difficulty": "Hard" },
+    { "id": "fr-0010", "word": "ordinateur", "definition": "Machine de calcul.",        "hintText": "Commence par 'o', finit par 'r'.", "difficulty": "Hard" },
+    { "id": "fr-0011", "word": "chrysalide", "definition": "Étape avant papillon.",     "hintText": "Commence par 'c', finit par 'e'.", "difficulty": "Hard" },
+    { "id": "fr-0012", "word": "soleil",     "definition": "Étoile de la Terre.",       "hintText": "Commence par 's', finit par 'l'.", "difficulty": "Easy" },
+    { "id": "fr-0013", "word": "maison",     "definition": "Lieu où l'on vit.",         "hintText": "Commence par 'm', finit par 'n'.", "difficulty": "Easy" },
+    { "id": "fr-0014", "word": "route",      "definition": "Voie pour rouler.",         "hintText": "Commence par 'r', finit par 'e'.", "difficulty": "Easy" }
+
+  ]
+}
