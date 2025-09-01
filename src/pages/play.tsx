@@ -57,27 +57,24 @@ export default function Play({ difficulty, onExit }: PlayProps) {
     }, []);
 
   // Load local words
-  useEffect(() => {
-    fetch("/assets/words/custom_words.json")
+    useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}assets/words/custom_words.json`) 
       .then((r) => r.json())
       .then((data) => setPack(data.words))
       .catch(() => setPack([{ id: "fallback", word: "apple" }]));
   }, []);
 
+
     // Play win sound + confetti
     useEffect(() => {
-    const a = new Audio("/sfx/win.mp3");
-    a.preload = "auto";
-    a.volume = 0.6;
-    winSfxRef.current = a;
-      }, []);
+      const a = new Audio(`${import.meta.env.BASE_URL}sfx/win.mp3`);
+      a.preload = "auto"; a.volume = 0.6; winSfxRef.current = a;
+    }, []);
 
 
-      useEffect(() => {
-        const a = new Audio("/sfx/loss.mp3");
-        a.preload = "auto";
-        a.volume = 0.6;
-        loseSfxRef.current = a;
+     useEffect(() => {
+        const a = new Audio(`${import.meta.env.BASE_URL}sfx/loss.mp3`);
+        a.preload = "auto"; a.volume = 0.6; loseSfxRef.current = a;
       }, []);
 
 

@@ -15,7 +15,7 @@ const cssEscape = (sel: string) =>
 
 export default function HangmanCanvas({
   stage,
-  svgUrl = "/assets/hangman/buddy.svg",
+  svgUrl = `${import.meta.env.BASE_URL}assets/hangman/buddy.svg`,
   className,
 }: HangmanCanvasProps) {
   const containerRef = useRef<HTMLDivElement>(null);
