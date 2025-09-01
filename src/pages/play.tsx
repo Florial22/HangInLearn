@@ -99,7 +99,7 @@ export default function Play({ difficulty, onExit }: PlayProps) {
     // load online word and fallback to local
 
       useEffect(() => {
-      const remoteBase = "https://raw.githubusercontent.com/Florial22/HangInLearn/main/public/online";
+      const remoteBase = "https://raw.githubusercontent.com/Florial22/HangInLearn/feature/remote-words/public/online";
       const remote = `${remoteBase}/words_${settings.lang}.json`;
       const fallback =
         settings.lang === "fr"
